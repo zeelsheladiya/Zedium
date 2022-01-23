@@ -16,9 +16,7 @@ width="200" hspace="10" vspace="10">
 
 # Screenshots
 
-<p align="center">
-[<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
-</p>
+<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">
 
 
 # Permissions
@@ -40,7 +38,7 @@ width="200" hspace="10" vspace="10">
 
 # Usage/Examples
 
-[<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
+<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">
 
 
 # Authors
