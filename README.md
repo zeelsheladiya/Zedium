@@ -12,23 +12,26 @@ width="200" hspace="10" vspace="10">
 - Which gives you the feature to hit webpage without having cache and cookies. 
 - Example using this app you can load <a href="https://medium.com/" target="_blank">Medium</a> strory unlinited with just to taps from meduim offical android app.
 
+<br>
 
 ## Screenshots
 
-![alt text](https://github.com/zeelsheladiya/Zedium/blob/main/use_sc/vid-1.gif)
+[<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
 
-
-
+-
+-
 
 ## Permissions
 
 - Network Access.
 - View Network Connections states.
 
+-
+-
 
 ## Usage/Examples
 
-![alt text](https://github.com/zeelsheladiya/Zedium/blob/main/use_sc/vid-2.gif)
+[<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
 
 
 ## Authors
