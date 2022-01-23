@@ -49,6 +49,23 @@ width="200" hspace="10" vspace="10">
 
 - [@zeelSheladiya](https://github.com/zeelsheladiya)
 
+- Here as you can see. You can directly read Medium Story by just sharing the story with this app. 
+
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
 # Contributing
 
