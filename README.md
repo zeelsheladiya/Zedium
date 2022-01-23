@@ -44,7 +44,7 @@ width="200" hspace="10" vspace="10">
 
 <img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">
 
-- Here as you can see. You can directly read Medium Story by just sharing the story with this app. 
+- Here as you can see. You can directly read unlimited Medium Story by just sharing the story with this app. 
 
 
 <br />
