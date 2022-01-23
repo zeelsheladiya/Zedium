@@ -65,15 +65,13 @@ width="200" hspace="10" vspace="10">
 <br />
 <br />
 
-# Contributing
-
-
 # Authors
 
 - [@zeelSheladiya](https://github.com/zeelsheladiya)
 
+# Contributing
 
-wallabag app is a free and open source project developed by volunteers. Any contributions are welcome. Here are a few ways you can help:
+Zedium app is a free and open source project developed by [ZeelSheladiya](https://github.com/zeelsheladiya). Any contributions are welcome. Here are a few ways you can help:
 
  * [Report bugs and make suggestions.](https://github.com/zeelsheladiya/Zedium/issues)
 
