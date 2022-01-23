@@ -11,6 +11,9 @@ width="200" hspace="10" vspace="10">
 - This a simple broswer app with incognito like feature. 
 - Which gives you the feature to hit webpage without having cache and cookies. 
 - Example using this app you can load <a href="https://medium.com/" target="_blank">Medium</a> strory unlinited with just to taps from meduim offical android app.
+
+<br>
+
 ## Screenshots
 
 [<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
@@ -20,13 +23,15 @@ width="200" hspace="10" vspace="10">
 
 ## Permissions
 
-- Full Network Access.
-- View Network Connections.
+- Network Access.
+- View Network Connections states.
+
+<br>
 ## Usage/Examples
 
 [<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
 
-
+<br>
 ## Authors
 
 - [@zeelSheladiya](https://github.com/zeelsheladiya)
