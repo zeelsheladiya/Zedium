@@ -12,11 +12,10 @@ width="200" hspace="10" vspace="10">
 - Which gives you the feature to hit webpage without having cache and cookies. 
 - Example using this app you can load <a href="https://medium.com/" target="_blank">Medium</a> strory unlinited with just to taps from meduim offical android app.
 
-<br>
 
 ## Screenshots
 
-[<img src="use_sc/vid-1.gif" align="left" width="200">]
+![alt text](https://github.com/zeelsheladiya/Zedium/blob/main/use_sc/vid-1.gif)
 
 
 
@@ -26,12 +25,12 @@ width="200" hspace="10" vspace="10">
 - Network Access.
 - View Network Connections states.
 
-<br>
+
 ## Usage/Examples
 
-[<img src="use_sc/vid-2.gif" align="left" width="200">]
+![alt text](https://github.com/zeelsheladiya/Zedium/blob/main/use_sc/vid-2.gif)
 
-<br>
+
 ## Authors
 
 - [@zeelSheladiya](https://github.com/zeelsheladiya)
