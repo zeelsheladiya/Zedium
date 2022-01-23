@@ -14,32 +14,28 @@ width="200" hspace="10" vspace="10">
 
 <br>
 
-## Screenshots
+# Screenshots
 
 [<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
 
--
--
 
-## Permissions
+# Permissions
 
 - Network Access.
 - View Network Connections states.
 
--
--
 
-## Usage/Examples
+# Usage/Examples
 
 [<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
 
 
-## Authors
+# Authors
 
 - [@zeelSheladiya](https://github.com/zeelsheladiya)
 
 
-## Contributing
+# Contributing
 
 wallabag app is a free and open source project developed by volunteers. Any contributions are welcome. Here are a few ways you can help:
 
