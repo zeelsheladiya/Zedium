@@ -27,6 +27,8 @@ width="200" hspace="10" vspace="10">
 - View Network Connections states.
 
 
+<br/>
+
 # Usage/Examples
 
 [<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
