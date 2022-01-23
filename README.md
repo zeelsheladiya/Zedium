@@ -16,7 +16,7 @@ width="200" hspace="10" vspace="10">
 
 ## Screenshots
 
-[<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
+[<img src="use_sc/vid-1.gif" align="left" width="200">]
 
 
 
@@ -29,7 +29,7 @@ width="200" hspace="10" vspace="10">
 <br>
 ## Usage/Examples
 
-[<img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">]
+[<img src="use_sc/vid-2.gif" align="left" width="200">]
 
 <br>
 ## Authors
