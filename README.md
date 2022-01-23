@@ -44,11 +44,6 @@ width="200" hspace="10" vspace="10">
 
 <img src="use_sc/vid-2.gif" align="left" width="200" hspace="10" vspace="10">
 
-
-# Authors
-
-- [@zeelSheladiya](https://github.com/zeelsheladiya)
-
 - Here as you can see. You can directly read Medium Story by just sharing the story with this app. 
 
 
@@ -68,6 +63,12 @@ width="200" hspace="10" vspace="10">
 <br />
 
 # Contributing
+
+
+# Authors
+
+- [@zeelSheladiya](https://github.com/zeelsheladiya)
+
 
 wallabag app is a free and open source project developed by volunteers. Any contributions are welcome. Here are a few ways you can help:
 
