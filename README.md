@@ -16,7 +16,9 @@ width="200" hspace="10" vspace="10">
 
 # Screenshots
 
+<p align="center">
 [<img src="use_sc/vid-1.gif" align="left" width="200" hspace="10" vspace="10">]
+</p>
 
 
 # Permissions
